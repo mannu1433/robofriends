@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.fe83b9c0.css",
+    "main.js": "/robofriends/static/js/main.f90ce19e.js",
+    "static/media/KlomangBrush-ARmzp.woff": "/robofriends/static/media/KlomangBrush-ARmzp.3a573b0fe92c30ce8c9c.woff",
+    "index.html": "/robofriends/index.html",
+    "main.fe83b9c0.css.map": "/robofriends/static/css/main.fe83b9c0.css.map",
+    "main.f90ce19e.js.map": "/robofriends/static/js/main.f90ce19e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe83b9c0.css",
+    "static/js/main.f90ce19e.js"
+  ]
+}
